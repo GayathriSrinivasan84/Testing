@@ -4,3 +4,6 @@ welcome testing
 
 Manual testing
 automation 
+
+cypress
+git
